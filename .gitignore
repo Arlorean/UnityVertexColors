@@ -28,3 +28,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/.vs/UnityVertexColors/v15/Browse.VC.db
+/.vs/UnityVertexColors/v15/Browse.VC.opendb
+/.vs/UnityVertexColors/v15/Browse.VC.opendb
+/.vs/UnityVertexColors/v15/Browse.VC.db
+/.vs
